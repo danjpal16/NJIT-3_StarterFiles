@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Spider-Man: Across the Spider-Verse",
+            "iscore": 8.5,
+            "rating": "PG",
+            "runtime": 140,
+            "released": [2023, 6, 2],
+            "country": "USA",
+            "posters": ["img/smatsv.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 872,
+            "dislikes": 121,
+            "posterindex": 0
+      },
+      {
+            "title": "How to Train Your Dragon",
+            "iscore": 8.1,
+            "rating": "PG",
+            "runtime": 98,
+            "released": [2010, 3, 21],
+            "country": "USA",
+            "posters": ["img/howtotrain.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 842,
+            "dislikes": 151,
+            "posterindex": 0
+      },
+      {
+            "title": "Why Him?",
+            "iscore": 6.2,
+            "rating": "R",
+            "runtime": 111,
+            "released": [2016, 12, 29],
+            "country": "USA",
+            "posters": ["img/why.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 842,
+            "dislikes": 151,
+            "posterindex": 0
       }
 ]
