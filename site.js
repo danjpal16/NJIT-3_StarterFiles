@@ -33,10 +33,10 @@ const vue_app = Vue.createApp({
         return {
             // This holds your movies.json data.
             movies: [],
-            title: "IMDb + Vue.js",
-            owner: "Daniel Palagano"
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-         
+            title: "IMDB + Dan's Top 8 Movies",
+            owner: 'Dan',
+            github: 'https://github.com/MatthewPass24'
       }
     },
       methods: {
